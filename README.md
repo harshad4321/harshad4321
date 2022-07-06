@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **node.js,express,mongodb,typescript**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **harshad.n4321@gmail.com**
 
