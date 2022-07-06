@@ -7,7 +7,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Harshad.N</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align=rignt  alt="codeing" width="300" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif ">
+<img align=right  alt="codeing" width="350" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshad4321&label=Profile%20views&color=0e75b6&style=flat" alt="harshad4321" /> </p>
 
 - 🌱 I’m currently learning **node.js,express,mongodb,typescript**
